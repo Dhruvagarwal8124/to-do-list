@@ -88,7 +88,8 @@ h2{
     }
     .inputBox input{
         width:90%;
-        height:20vw;
+        height:50px;
+        font-size:24px;
         margin-bottom:5px;
         padding:3px;
     }
